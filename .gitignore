@@ -7,3 +7,4 @@ public/
 .deploy*/
 _multiconfig.yml
 ecosystem.config.js
+_config.butterfly.yml
