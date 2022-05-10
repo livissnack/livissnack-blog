@@ -1,5 +1,6 @@
+
 # node环境镜像
-FROM node:latest AS build-env
+FROM node:buster  AS builder
 # 创建livissnack-blog文件夹且设置成工作文件夹
 RUN mkdir -p /usr/src/livissnack-blog
 WORKDIR /usr/src/livissnack-blog
@@ -16,5 +17,5 @@ ENV TZ=Asia/Shanghai
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 WORKDIR /usr/share/nginx/html
 # 把上一部生成的HTML文件复制到Nginx中
-COPY --from=build-env /usr/src/livissnack-blog/public /usr/share/nginx/html
+COPY --from=builder /usr/src/livissnack-blog/public /usr/share/nginx/html
 EXPOSE 80
