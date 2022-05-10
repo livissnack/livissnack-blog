@@ -1,6 +1,5 @@
-
 # node环境镜像
-FROM node:buster  AS builder
+FROM node:14.18.3-buster AS builder
 # 创建livissnack-blog文件夹且设置成工作文件夹
 RUN mkdir -p /usr/src/livissnack-blog
 WORKDIR /usr/src/livissnack-blog
