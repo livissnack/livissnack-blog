@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "livissnack-blog",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "hexo generate",
@@ -10,6 +10,10 @@
   },
   "hexo": {
     "version": "6.0.0"
+  },
+  "author": {
+    "name": "LivisSnack",
+    "email": "brucesnack@outlook.com"
   },
   "dependencies": {
     "hexo": "^6.0.0",
