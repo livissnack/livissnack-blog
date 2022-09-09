@@ -1,14 +1,15 @@
 ---
-title: 回首2011
+title: 回首2022
+cover: https://livissnack.oss-cn-shanghai.aliyuncs.com/img/bg1.jpg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 回首2022
 
-### Create a new post
+### 开始
 
-``` bash
-$ hexo new "My New Post"
+``` text
+不堪回首的2022年，年初过完年就回深圳打拼，到2022年6月，经过疫情的洗礼公司减员，还好公司正规，可以拿到理赔走人，带着一丝丝忧伤离开的公司。在深圳思考了一周时间，感觉在外没有归属感，离家也远，所以思虑再三决定回家乡武汉发展。
+回想从2015毕业就去深圳发展，历经7年时间，从程序员学徒到技术主管，人生匆匆不过几十载
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)

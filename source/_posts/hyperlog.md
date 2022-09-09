@@ -1,7 +1,8 @@
 ---
 title: hyperlog
 date: 2022-05-10 17:41:14
-tags:
+tags: redis、hyperloglog
+cover: https://livissnack.oss-cn-shanghai.aliyuncs.com/img/bg2.jpg
 ---
 
 

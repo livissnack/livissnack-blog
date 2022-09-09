@@ -8,3 +8,5 @@ public/
 _multiconfig.yml
 ecosystem.config.js
 _config.butterfly.yml
+ssl
+deploy.sh

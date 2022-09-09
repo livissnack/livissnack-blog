@@ -1,5 +1,6 @@
 ---
 title: 抖音视频解析原理分析
+cover: https://livissnack.oss-cn-shanghai.aliyuncs.com/img/bg2.jpg
 ---
 
 # 抖音视频解析原理分析

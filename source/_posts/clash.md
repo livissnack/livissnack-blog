@@ -1,5 +1,6 @@
 ---
 title: Clash节点配置文件详解
+cover: https://livissnack.oss-cn-shanghai.aliyuncs.com/img/bg2.jpg
 ---
 
 # Clash节点配置文件详解
